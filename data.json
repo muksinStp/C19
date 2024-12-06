@@ -1,0 +1,121 @@
+[
+  {
+    "name": "muksin",
+    "height": 172,
+    "weight": 70,
+    "birthdate": "1979-05-14",
+    "married": true
+  },
+  {
+    "name": "Hilmi",
+    "height": 165,
+    "weight": 60,
+    "birthdate": "1998-06-14",
+    "married": true
+  },
+  {
+    "name": "ramdani",
+    "height": 170,
+    "weight": 65,
+    "birthdate": "2000-12-12",
+    "married": false
+  },
+  {
+    "name": "satro",
+    "height": 172.3,
+    "weight": 70.2,
+    "birthdate": "2024-12-05",
+    "married": true
+  },
+  {
+    "name": "sairi",
+    "height": 173.32,
+    "weight": 70.23,
+    "birthdate": "2024-12-04",
+    "married": true
+  },
+  {
+    "name": "sarbini",
+    "height": 172.5,
+    "weight": 70.6,
+    "birthdate": "2024-12-06",
+    "married": true
+  },
+  {
+    "name": "jedil",
+    "height": 172.7,
+    "weight": 70.23,
+    "birthdate": "2024-12-06",
+    "married": false
+  },
+  {
+    "name": "juned",
+    "height": 1,
+    "weight": 1,
+    "birthdate": "2024-12-06",
+    "married": true
+  },
+  {
+    "name": "j",
+    "height": 172,
+    "weight": 72.01,
+    "birthdate": "2024-12-06",
+    "married": false
+  },
+  {
+    "name": "H",
+    "height": 10,
+    "weight": 11.02,
+    "birthdate": "2024-12-07",
+    "married": false
+  },
+  {
+    "name": "k",
+    "height": 0,
+    "weight": 0,
+    "birthdate": "",
+    "married": false
+  },
+  {
+    "name": "m",
+    "height": 0,
+    "weight": 0,
+    "birthdate": "",
+    "married": false
+  },
+  {
+    "name": "z",
+    "height": 1,
+    "weight": 1.23,
+    "birthdate": "",
+    "married": true
+  },
+  {
+    "name": "y",
+    "height": 10,
+    "weight": 13,
+    "birthdate": "",
+    "married": false
+  },
+  {
+    "name": "x",
+    "height": 10,
+    "weight": 11,
+    "birthdate": "",
+    "married": true
+  },
+  {
+    "name": "f",
+    "height": 1,
+    "weight": 1.23,
+    "birthdate": "",
+    "married": false
+  },
+  {
+    "name": "a",
+    "height": 1,
+    "weight": 1,
+    "birthdate": "",
+    "married": false
+  }
+]
