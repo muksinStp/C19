@@ -81,7 +81,7 @@ const server = http.createServer((req, res) => {
           res.write('</head><body>');
           res.write('<h2><form method="POST" action="/add" style="width: 100vw; max-width: 600px; margin: 0 auto;"></h2>');
           res.write('<input type="text" name="name" placeholder="insert your name" required/><br/>');
-          res.write('<input type="number" name="height" placeholder="insert your height" min="0.00" step="0.01" /><br/>');
+          res.write('<input type="number" name="height" placeholder="insert your height"  /><br/>');
           res.write('<input type="number" name="weight" placeholder="input your weight" min="0.00" step="0.01" /><br/>');
           res.write('<input type="date" name="birthdate"/><br/>');
           res.write('<select name="married"><option value="" disabled selected>Have you married?</option><option value="false">false</option><option value="true">true</option></select><br/>');
@@ -137,7 +137,7 @@ const server = http.createServer((req, res) => {
         res.write(`<h1>Updating Data</h1>
           <form method="POST" action="/edit/${index}">
           Name: <input type="text" name="name" value="${person.name}"/><br/>
-          Height: <input type="number" name="height" value="${person.height}" min="0.00" step="0.01"/><br/>
+          Height: <input type="number" name="height" value="${person.height}"/><br/>
           Weight: <input type="number" name="weight" value="${person.weight}" min="0.00" step="0.01"/><br/>
           Birthdate: <input type="date" name="birthdate" value="${person.birthdate}"/><br/>
           is Married: <select name="married"><option value="false" ${!person.married ? 'selected' : ''}>false</option><option value="true" ${person.married ? 'selected' : ''}>true</option></select><br/>
